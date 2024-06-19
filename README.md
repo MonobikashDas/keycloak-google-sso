@@ -1,6 +1,6 @@
 # SSO using Keycloak and Spring Boot
 
-I will use Google to perform SSO and redirect to keycloak for authentication. I will use Keycloak auth token for authentication and authorization in my spring boot microservice.
+I will use Google credentials to perform SSO and redirect to keycloak for authentication. I will use Keycloak auth token for authentication and authorization in my spring boot microservice.
 
 ### Create a new realm in Keycloak
 Login with admin and create new realm.
